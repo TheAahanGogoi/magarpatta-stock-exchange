@@ -20,7 +20,7 @@ class magarpattastockexchange
             switch (ch)
             {
                 case 1: 
-                    System.out.println(username+"'s Portfolio \n INVESTMENT VALUE = Rs."+amt+"\n UNUSED FUNDS = Rs."+bal);
+                    System.out.println(username+"'s Portfolio \n INVESTMENT VALUE = Rs."+amt+"\n UNUSED FUNDS = Rs."+bal+"\n TOTAL = Rs."+(bal+amt));
                     System.out.println("Companies' shares owned by you:"); 
                     if (axisbank==true)
                         System.out.println("AXISBANK"); 
