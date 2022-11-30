@@ -12,4 +12,4 @@ Using the Math.random() function, the profits and losses are returned.
 ```
 Here is a picture to demonstrate the usage of this paper trading program.
 ```
-![image](https://user-images.githubusercontent.com/90509984/204603319-526dcd67-eb32-4e6b-bb29-e235b708b8f0.png)
+![image](https://user-images.githubusercontent.com/90509984/204870619-342aa491-02ff-448c-8d86-c6788cb851db.png)
